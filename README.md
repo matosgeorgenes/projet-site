@@ -1,2 +1,2 @@
-# projet-site
-Projet Site - Cours de développement de sites web.
+# projeto-site
+ Projeto de um site criado durante o Curso de Git e GitHub
